@@ -1,2 +1,3 @@
 # KeyMindJS
-Play developed with JavaScript Html and CSS
+
+Memory game developed with JavaScript Html and CSS
